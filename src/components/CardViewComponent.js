@@ -101,28 +101,24 @@ const posts = [
     {
         id: 1,
         loveNum: '88',
-        date: '12월 31일',
         content: '#자취중 #동계 프로젝트 마무리 #친해지기',
         image:[IntroProfileImg]
     },
     {
         id: 2,
         loveNum: '75',
-        date: '12월 3일',
         content: '#취미 #배구 #스파이크 #세터 #KUSF대회',
         image:[Volleyball1Img, Volleyball2Img, Volleyball3Img, Volleyball4Img]
     },
     {
         id: 3,
         loveNum: '90',
-        date: '12월 20일',
         content: '#초밥 #회 #해산물 #고기 #김치찌개 #된장찌개 #한식 #마라탕',
         image:[FavoFood1Img, FavoFood2Img, FavoFood3Img, FavoFood4Img]
     },
     {
         id: 4,
         loveNum: '91',
-        date: '12월 29일',
         content: '#가지 #멍게 #해파리 #당근 #양고기 #추어탕',
         image:[NoFood1Img, NoFood2Img, NoFood3Img, NoFood4Img]
     }
@@ -214,7 +210,6 @@ const CardViewSection = () => {
                                 </IconTextContainer>
                                 <hr style={{marginRight: '20px'}}></hr>
                                 <h4>{selectedInfo.content}</h4>
-                                <h6 style={{marginTop: '600px', paddingLeft: '300px'}}>{selectedInfo.date}</h6>
                             </div>
                         </ModalContainer>
                     )}
