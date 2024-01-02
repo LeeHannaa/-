@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { useMediaQuery } from "react-responsive"
+import { useMediaQuery } from "react-responsive";
 import { GrHomeRounded } from "react-icons/gr";
 import { IoSearchOutline } from "react-icons/io5";
 import { IoCompassOutline } from "react-icons/io5";
@@ -45,10 +45,10 @@ const IconTextContainer = styled.tr`
 
 const SideBar = () => {
     const isPc = useMediaQuery({
-        query : "(min-width:1024px)"
+        query : "(min-width:1300px)"
       });
       const nonPC = useMediaQuery({
-        query : "(max-width:1023px)"
+        query : "(max-width:1299px)"
       });
     
     return (

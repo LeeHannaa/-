@@ -1,5 +1,5 @@
 import SideBarComponent from '../components/SideBarComponent';
-import HeadSectionComponent from '../components/HeadSectionComponent';
+import MainComponent from '../components/MainComponent';
 import styled from 'styled-components';
 
 const Container = styled.div`
@@ -21,13 +21,14 @@ function HomePage() {
     return (
         <>
         <Container>
-        <SideBar>
-            <SideBarComponent />
-        </SideBar>
+            <SideBar>
+                <SideBarComponent />
+            </SideBar>
 
-        <MainSection>
-            <HeadSectionComponent />
-        </MainSection>
+            <MainSection>
+                <MainComponent />
+            </MainSection>
+
         </Container>
         </>
     );
