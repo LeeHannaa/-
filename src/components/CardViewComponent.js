@@ -209,7 +209,7 @@ const CardViewSection = () => {
                                     <h4>ihan_na589</h4> 
                                 </IconTextContainer>
                                 <hr style={{marginRight: '20px'}}></hr>
-                                <h4>{selectedInfo.content}</h4>
+                                <h4 style={{marginBottom: '600px'}}>{selectedInfo.content}</h4>
                             </div>
                         </ModalContainer>
                     )}
