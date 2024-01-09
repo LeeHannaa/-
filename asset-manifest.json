@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/likeLion-profile/static/js/main.a6e7015a.js",
+    "static/media/introprofile.jpeg": "/likeLion-profile/static/media/introprofile.d16dae4193ae9692eeac.jpeg",
+    "static/media/volleyball4.jpeg": "/likeLion-profile/static/media/volleyball4.bd611b043461c227d771.jpeg",
+    "static/media/favofood4.jpeg": "/likeLion-profile/static/media/favofood4.f543c8f8d838e691ba29.jpeg",
+    "static/media/favofood2.jpeg": "/likeLion-profile/static/media/favofood2.6807f3f80f17ae53038d.jpeg",
+    "static/media/favofood1.jpeg": "/likeLion-profile/static/media/favofood1.2d9b8faed16b1ebb672b.jpeg",
+    "static/media/nofood2.png": "/likeLion-profile/static/media/nofood2.d0e060a3c1708f95854f.png",
+    "static/media/favofood3.jpeg": "/likeLion-profile/static/media/favofood3.d69d1fff930d2c6036c7.jpeg",
+    "static/media/volleyball3.jpeg": "/likeLion-profile/static/media/volleyball3.30ec77035889deb7d400.jpeg",
+    "static/media/volleyball2.jpeg": "/likeLion-profile/static/media/volleyball2.924e53bd9b194dc5a8bc.jpeg",
+    "static/media/volleyball1.jpeg": "/likeLion-profile/static/media/volleyball1.e324043543a798cdd825.jpeg",
+    "static/media/nofood1.jpeg": "/likeLion-profile/static/media/nofood1.d352b11e9db720609e52.jpeg",
+    "static/media/nofood4.jpeg": "/likeLion-profile/static/media/nofood4.86000b98c09f2e9e663f.jpeg",
+    "static/media/myprofile.jpeg": "/likeLion-profile/static/media/myprofile.ca4da4f07f2bdecd18e0.jpeg",
+    "static/media/nofood3.jpeg": "/likeLion-profile/static/media/nofood3.0cc660bc731d03e7dde4.jpeg",
+    "static/media/instagramLogo.png": "/likeLion-profile/static/media/instagramLogo.7a0853c3705580fc3856.png",
+    "index.html": "/likeLion-profile/index.html",
+    "main.a6e7015a.js.map": "/likeLion-profile/static/js/main.a6e7015a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a6e7015a.js"
+  ]
+}
