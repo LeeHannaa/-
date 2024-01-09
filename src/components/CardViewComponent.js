@@ -61,7 +61,7 @@ const ModalContainer = styled.div`
 `;
 const ModalDiv = styled.div` 
     width: 800px;
-    height: 775px;
+    height: 760px;
     overflow: hidden;
     margin-left: 5px;
     margin-right: 5px;
@@ -75,6 +75,7 @@ const ModalImg= styled.img`
     left: 0; //부모요소인 div 태그의 왼쪽 상단에 이미지를 위치
     width: 100%;
     height: 100%;
+    padding-top: 10px;
     object-fit: cover;
     z-index: 0;
 `;
@@ -196,7 +197,7 @@ const CardViewSection = () => {
                             )}
                             { selectedInfo.id === 1 && (
                                 <>
-                                    <ModalDiv>
+                                    <ModalDiv style={{marginRight: '30px'}}>
                                         <ModalImg src={selectedInfo.image[currentImageIndex]} alt={`Post ${selectedInfo.id}`} />
                                     </ModalDiv>
                                 </>
